@@ -14,11 +14,11 @@
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-800020?style=for-the-badge&logo=rust&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=for-the-badge)
+![Rust](https://img.shields.io/badge/Rust-800020?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Tech
 
