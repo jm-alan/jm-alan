@@ -17,7 +17,6 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-c++-044F88?logo=c%2B%2B&style=for-the-badge)
 ![Rust](https://img.shields.io/badge/Rust-800020?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-white?logo=java&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-2965f1?&style=for-the-badge&logo=css3&logoColor=white)
 
@@ -32,8 +31,3 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-
-
-<!-- ### Hi there 👋
-**jm-alan/jm-alan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
