@@ -6,7 +6,7 @@
 <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jm-alan&count_private=true&theme=vue-dark&layout=compact&custom_title=Language%20Breakdown"/>
 </a>
 
-### Reach out to connect!
+### I'd love to connect!
 <a href="https://www.linkedin.com/in/j-alan/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -17,6 +17,7 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-c++-044F88?logo=c%2B%2B&style=for-the-badge)
 ![Rust](https://img.shields.io/badge/Rust-800020?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-white?logo=java&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-2965f1?&style=for-the-badge&logo=css3&logoColor=white)
 
