@@ -23,11 +23,11 @@
 ### Tech
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)  
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Sequelize](https://img.shields.io/badge/-sequelize-black?logo=sequelize&style=for-the-badge)
+![Sequelize](https://img.shields.io/badge/-sequelize-black?logo=sequelize&style=for-the-badge)  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLALCHEMY-800020?style=for-the-badge)
+![SQLAlchemy](https://img.shields.io/badge/SQLALCHEMY-800020?style=for-the-badge)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
